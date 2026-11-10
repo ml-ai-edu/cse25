@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use or adapt these course materials, please cite this repository."
+title: "CSE 25: Introduction to Artificial Intelligence"
+type: generic
+authors:
+  - family-names: "Bonjour"
+    given-names: "Trevor"
+  - family-names: "Minnes"
+    given-names: "Mia"
+repository-code: "https://github.com/ml-ai-edu/cse25"
