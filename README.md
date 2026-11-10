@@ -23,6 +23,10 @@ Instructors are welcome to explore the course sequence, adapt activities, and se
 
 Before using materials in a new setting, review the notebooks and assignments for local dependencies, course-specific instructions, and any third-party content.
 
+## Citation and attribution
+
+If you use or adapt materials from this repository, please cite both the repository (using GitHub's **Cite this repository** feature) and our SIGCSE 2027 experience report listed below.
+
 ## Related publication
 
 *An Early Introduction to Machine Learning without Calculus*, accepted for **SIGCSE TS 2027**.
